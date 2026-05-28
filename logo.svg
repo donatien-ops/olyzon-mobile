@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" fill="currentColor" role="img" aria-label="Olyzon">
+  <title>Olyzon</title>
+  <!--
+    PLACEHOLDER — approximate trace of the Olyzon brand icon.
+    Replace with the official SVG export from BRAND-ICON/VECTOR-AI/RGB-DIGITAL/
+    (or File → Export → SVG from Illustrator on the .ai source files,
+    Document Color Mode = RGB) when available.
+
+    Uses fill="currentColor" so a single file serves both:
+      - light backgrounds — set color: #091217 (Deep Slate Gray)
+      - dark backgrounds  — set color: #FFFFFF or #F8FAFC (neutral-050)
+    No hard-coded hex inside the SVG.
+  -->
+  <!-- Main O ring with right-side wedge cut. -->
+  <path d="
+    M 90 16
+    A 84 84 0 1 0 90 184
+    A 84 84 0 0 0 168 132
+    L 122 112
+    A 40 40 0 1 1 122 88
+    L 168 68
+    A 84 84 0 0 0 90 16
+    Z
+  "/>
+  <!-- Right echo sliver. -->
+  <path d="
+    M 180 60
+    A 14 56 0 0 1 180 140
+    L 180 122
+    A 6 38 0 0 0 180 78
+    Z
+  "/>
+</svg>
